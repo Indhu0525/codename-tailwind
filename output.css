@@ -751,3 +751,6 @@ video {
     display: block;
   }
 }
+*{
+  font-family: Inter, sans-serif;
+}
