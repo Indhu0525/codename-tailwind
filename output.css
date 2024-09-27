@@ -751,6 +751,9 @@ video {
     display: block;
   }
 }
+.w-search {
+  width: 26rem;
+}
 *{
   font-family: Inter, sans-serif;
 }
